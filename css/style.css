@@ -123,7 +123,6 @@ form {
 .navi {
     display: flex;
     justify-content: space-around;
-    /*align-items: center;*/
     height: 22px;
     border: 1px solid #c1c8cb;
     width: 78px;
@@ -151,7 +150,6 @@ header {
 .buttom_menu {
     margin-top: 8px;
     display: flex;
-    /*background: rgba(77,86,99,1);*/
     background: url(../img/menu.png) repeat-x;
     height: 32px;
 }
@@ -162,5 +160,4 @@ header {
 
 .bucket {
     display: flex;
-    
 }
