@@ -179,7 +179,9 @@ header {
 
 .bucket {
     display: flex;
+    align-items: center;
     color: #b1bcc0;
+    font-family: arial sans-serif;
 }
 
 .tov {
