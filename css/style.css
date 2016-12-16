@@ -293,8 +293,9 @@ article {
 
 .central_menu {
     width: 526px;
-    border: 1px solid #9b9c9d;
+    border: 1px solid #a1b3bb;
     height: 627px;
+    background: linear-gradient(to bottom, rgba(229,231,232,1) 0%,rgba(199,208,212,1) 32%,rgba(163,180,187,1) 75%,rgba(147,167,176,1) 100%);
 }
 
 .right_menu {
@@ -302,3 +303,4 @@ article {
     border: 1px solid #9b9c9d;
     height: 627px;
 }
+
