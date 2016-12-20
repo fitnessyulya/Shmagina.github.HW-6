@@ -248,21 +248,22 @@ header {
 .searchbox {
     display: flex;
     justify-content: space-around;
-}
+    }
 
 .block1 {
     margin-top: 11px;
-    margin-left: -3px;
+    margin-left: 2px;
     width: 415px;
-    height: 133px;
+    height: 134px;
     border: 1px solid #9b9c9d;
     border-radius: 18px;
     box-shadow: 3px 4px 5px rgba(104, 104, 104, .6);
 }
 
 .block2 {
-    margin-top: 11px;
-    width: 193px;
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 194px;
     height: 134px;
     border: 1px solid #9b9c9d;
     border-radius: 18px;
@@ -270,10 +271,10 @@ header {
 }
 
 .block3 {
-    margin-top: 11px;
-    margin-left: -3px;
-    width: 266px;
-    height: 134px;
+    margin-top: 9px;
+    margin-left: 1px;
+    width: 267px;
+    height: 136px;
     border: 1px solid #9b9c9d;
     border-radius: 18px;
     box-shadow: 3px 4px 5px rgba(104, 104, 104, .6);
@@ -281,7 +282,7 @@ header {
 
 article {
     display: flex;
-    margin-top: 11px;
+    margin-top: 15px;
     justify-content: space-around;
 }
 
@@ -304,3 +305,11 @@ article {
     height: 627px;
 }
 
+.row1 {
+    display: flex;
+}
+
+goodyear {
+    width: 140px;
+    height: 127px;
+}
